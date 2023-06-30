@@ -5,3 +5,5 @@ def nothing():
 
 print(nothing())
 
+'''Avoid amending commits that have already been made public
+This can create confusion when working with others'''
